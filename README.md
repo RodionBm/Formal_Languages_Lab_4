@@ -1,4 +1,4 @@
-# Laboratory Work 2: Regular Expression 
+# Laboratory Work 4: Regular Expression 
 
 **Author:** Cretu Dumitru  
 **Course:** Formal Languages & Finite Automata  
